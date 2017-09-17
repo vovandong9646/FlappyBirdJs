@@ -1,0 +1,4 @@
+đầu tiên:
+	game flappy bird có các đối tượng là: 1 cái khung (container), 1 con chim(bird), 2 cái ống (pole), 1 cái nút play, 1 cái nút replay, 1 cái ô tính điểm(score)
+
+b1: Thiết lập cho cái khung : lấy chiều dài và chiều rộng của khung bằng hàm container.height() và container.width() xong ép kiểu integer cho nó
